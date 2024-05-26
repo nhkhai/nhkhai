@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "build-github-actions": "tsc && vite build --base=/my-portfolio-website/",
+    "build-github-actions": "tsc && VITE_BASE_PATH=/my-portfolio-website/ vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
