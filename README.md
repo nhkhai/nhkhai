@@ -25,4 +25,3 @@ Hosted Links:
 [GitHub Pages](https://nhkhai.github.io/my-portfolio-website/)
 [Netlify](https://ng-heng-khai.netlify.app/)
 -->
-<meta name="google-site-verification" content="0HYaV2Au1GbkMt5HHgFBEZDKyS3qvDq8fDVjYc7SU1s" />
